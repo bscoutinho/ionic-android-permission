@@ -1,0 +1,7 @@
+{
+  "name": "userPermission",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
